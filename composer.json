@@ -1,0 +1,16 @@
+{
+    "name": "myvendor/search",
+    "description": "test google custom search mawdoo3",
+    "authors": [
+        {
+            "name": "hamzeh khallad",
+            "email": "hamzeh.khallad@arabiacell.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyVendor\\Search\\": "src/"
+        }
+    }
+}
